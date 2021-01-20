@@ -1,1 +1,2 @@
-# Simple-Linear-REgression-in-R
+# Simple-Linear-Regression-in-R
+## machine learning in R
